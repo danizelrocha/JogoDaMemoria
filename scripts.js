@@ -18,4 +18,8 @@ async function generateImagePairs() {
 function shuffleCards(cards) {
     cards.sort(() => Math.random() - 0.5);
 }
+
+let flippedCards = 0;
+let firstCard, secondCard;
+let attempts = 0;
   
