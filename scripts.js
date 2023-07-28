@@ -14,3 +14,8 @@ async function generateImagePairs() {
   }
   return imagePairs;
 }
+// Embaralhe a matriz de cartas
+function shuffleCards(cards) {
+    cards.sort(() => Math.random() - 0.5);
+  }
+  
