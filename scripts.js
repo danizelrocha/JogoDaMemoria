@@ -23,5 +23,5 @@ let flippedCards = 0;
 let firstCard, secondCard;
 let attempts = 0;
 
-// continuar com a implementação
+// continuar com a implementação do código
   
