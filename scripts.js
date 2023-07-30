@@ -22,4 +22,6 @@ function shuffleCards(cards) {
 let flippedCards = 0;
 let firstCard, secondCard;
 let attempts = 0;
+
+// continuar co
   
